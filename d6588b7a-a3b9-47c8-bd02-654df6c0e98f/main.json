@@ -1,1 +1,1 @@
-{"allocations": {"AAPL": 8.18, "JNJ": 8.18, "JPM": 8.18, "XOM": 8.18, "LIN": 8.18, "CAT": 8.18, "AMZN": 8.18, "PG": 8.18, "NEE": 8.18, "AMT": 8.18, "VZ": 8.18, "GLD": 5.0, "BTC": 5.0}, "frequency": 3, "name": "", "period": "months"}
+{"allocations": {"AAPL": 8.18, "JNJ": 8.18, "JPM": 8.18, "XOM": 8.18, "LIN": 8.18, "CAT": 8.18, "AMZN": 8.18, "PG": 8.18, "NEE": 8.18, "AMT": 8.18, "VZ": 8.18, "GLD": 5.0, "BTC": 5.0}, "frequency": 30, "name": "Sector Rotation Strategy", "period": "days"}
